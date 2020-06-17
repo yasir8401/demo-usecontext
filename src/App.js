@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import { Parent } from "./components/Parent";
 import ValueContext from "./Context/ValueContext";
